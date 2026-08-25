@@ -32,7 +32,8 @@
     "dxz-ytdl": "latest",
     "denethdev-ytmp3": "latest",
     "darksadas-yt-pornhub-scrape": "latest",
-    "@spinzaf/freefire-api": "latest"
+    "@spinzaf/freefire-api": "latest",
+    "google-tts-api": "^1.1.1"
   },
   "devDependencies": {
     "nodemon": "^3.0.2"
